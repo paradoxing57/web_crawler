@@ -1,0 +1,19 @@
+Web Crawler Tool
+Overview
+The Web Crawler Tool is a sophisticated, Python-based application designed for recursively navigating web pages starting from a specified URL. This tool effectively retrieves and organizes various file types, making it a valuable asset for developers, researchers, and data analysts.
+
+Key Features
+Recursive Crawling
+The tool performs in-depth crawling of web pages, starting from a user-provided URL. It follows links within the same domain, ensuring comprehensive data retrieval.
+
+File Organization
+To maintain order and ease of access, the tool categorizes and saves files into designated directories:
+
+JavaScript files: Saved under the js directory.
+PHP files: Saved under the php directory.
+Images: Saved under the images directory.
+CSS files: Saved under the css directory.
+Other files: Saved under the others directory.
+User Interaction
+Continuation Prompt: After saving every 5 files, the tool prompts the user to decide whether to continue or halt the crawling process.
+Dynamic Progress Indicator: The tool features a real-time, dynamic progress bar and percentage display, providing clear visibility into the crawling progress.
