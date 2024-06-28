@@ -20,7 +20,7 @@ A Python-based web crawler tool that recursively navigates web pages starting fr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/web-crawler.git
+   git clone https://github.com/paradoxing57/web-crawler.git
    cd web-crawler
 
 --------------------------------------------------------------------------
